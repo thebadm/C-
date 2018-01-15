@@ -1,0 +1,26 @@
+c:\users\1613550\documents\visual studio 2015\Projects\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.exe.config
+c:\users\1613550\documents\visual studio 2015\Projects\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.exe
+c:\users\1613550\documents\visual studio 2015\Projects\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.pdb
+c:\users\1613550\documents\visual studio 2015\Projects\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.csprojResolveAssemblyReference.cache
+c:\users\1613550\documents\visual studio 2015\Projects\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.exe
+c:\users\1613550\documents\visual studio 2015\Projects\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.pdb
+D:\mcalero\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.exe.config
+D:\mcalero\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.exe
+D:\mcalero\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.pdb
+D:\mcalero\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.exe
+D:\mcalero\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.pdb
+D:\mcalero\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.csprojResolveAssemblyReference.cache
+I:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.exe.config
+I:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.exe
+I:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.pdb
+I:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.exe
+I:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.pdb
+I:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.csprojResolveAssemblyReference.cache
+H:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.exe.config
+H:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.exe
+H:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.pdb
+H:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.exe
+H:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\ConnecionBDMSQL.pdb
+H:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\obj\Debug\ConnecionBDMSQL.csprojResolveAssemblyReference.cache
+H:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\Mono.Security.dll
+H:\Ing-Sistema\Cursando\PO\07012018\ConnecionBD\ConnecionBDMSQL\bin\Debug\Npgsql.dll
